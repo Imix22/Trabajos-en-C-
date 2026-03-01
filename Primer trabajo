@@ -1,0 +1,19 @@
+#include «stdio.h›
+
+int main()
+
+{
+float base, altura, area;
+
+printf(*Cuanto mide la base \n");
+
+scanf (“%f”, &base);
+
+printf ("Cuanto mide la altura \n*);
+
+scanf ("%F", &altura);
+
+area=(base altura) /2;
+
+printf("La area es %f", area) ;
+}
